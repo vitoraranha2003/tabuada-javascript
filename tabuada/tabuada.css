@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: Courier;
+}
+section{
+    background-color: white;
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    border-radius: 3%;
+    box-shadow: 10px 10px;
+    padding: 15px;
+}
+footer{
+    padding: 15px;
+}
