@@ -1,1 +1,1 @@
-# tabuada-javascript
+Esse programa pede um número e mostra a tabuada dele. Deixar o campo em branco resulta em uma mensagem pedindo para digitar um número e digitar números negativos resulta em uma mensagem pedindo para digitar um número igual ou maior que 0.             
